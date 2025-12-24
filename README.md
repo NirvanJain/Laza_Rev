@@ -7,11 +7,6 @@ It appears to be deployed live at: https://laza-rev-peach.vercel.app
 
 **Laza_Rev** is a frontend project that delivers an interactive user experience using standard web technologies.  
 
-It uses:
-
-- **HTML** for structure  
-- **CSS** for styling  
-- **JavaScript** for interactivity :contentReference[oaicite:1]{index=1}
 
 ## 📁 Repository Structure
 
