@@ -16,8 +16,12 @@ It uses:
 
 Laza_Rev/
 ├── index.html # Main HTML page
+
 ├── style.css # Stylesheet
+
 ├── script.js # JavaScript logic
+
 ├── accern-rhea-cover-big.mp4 # Media asset (video)
+
 └── README.md # This file
 
