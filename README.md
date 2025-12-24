@@ -5,7 +5,8 @@ It appears to be deployed live at: https://laza-rev-peach.vercel.app
 
 ## 🚀 About
 
-Laza_Rev is a frontend project that delivers an interactive user experience using standard web technologies.  
+**Laza_Rev** is a frontend project that delivers an interactive user experience using standard web technologies.  
+
 It uses:
 
 - **HTML** for structure  
@@ -15,13 +16,14 @@ It uses:
 ## 📁 Repository Structure
 
 Laza_Rev/
-├── index.html # Main HTML page
 
-├── style.css # Stylesheet
+- **index.html** # Main HTML page
 
-├── script.js # JavaScript logic
+- **style.css** # Stylesheet
 
-├── accern-rhea-cover-big.mp4 # Media asset (video)
+- **script.js** # JavaScript logic
 
-└── README.md # This file
+- **accern-rhea-cover-big.mp4** # Media asset (video)
+
+─ **README.md** # This file
 
