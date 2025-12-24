@@ -25,5 +25,5 @@ Laza_Rev/
 
 - **accern-rhea-cover-big.mp4** # Media asset (video)
 
-─ **README.md** # This file
+- **README.md** # This file
 
