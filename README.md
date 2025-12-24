@@ -12,7 +12,5 @@ It uses:
 - **CSS** for styling  
 - **JavaScript** for interactivity :contentReference[oaicite:1]{index=1}
 
-> _Live demo available at the above link._
-
 ## 📁 Repository Structure
 
