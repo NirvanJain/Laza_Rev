@@ -21,9 +21,36 @@ Laza_Rev/
 
 - **style.css** => Stylesheet
 
+
+## 🛠 Features
+
+- Responsive UI built with semantic HTML and modern CSS
+- Interactive behavior powered by JavaScript
+- Media integration (video, animation, or visual content)
+
+*(Update these bullet points to list actual features once finalized)*
+
+## 🧩 Tech Stack
+
+| Technology | Purpose |
+|------------|---------|
+| HTML       | Markup & structure |
+| CSS        | Design & layout |
+| JavaScript | Interactivity |
+| Vercel     | Deployment |
+
+## 🧱 Installation
+
+To run the project locally:
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/NirvanJain/Laza_Rev.git
+   cd Laza_Rev
+
 - **script.js** => JavaScript logic
 
 - **accern-rhea-cover-big.mp4** => Media asset (video)
 
 - **README.md** => This file
-
