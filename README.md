@@ -10,7 +10,7 @@ You can visit Laza_Rev at : https://laza-rev-peach.vercel.app
 
 ## 📁 Repository Structure
 
-Laza_Rev/
+Laza_Rev
 
 - **index.html** => Main HTML page
 
