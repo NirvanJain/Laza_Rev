@@ -46,5 +46,6 @@ To run the project locally:
 
    ```bash
    git clone https://github.com/NirvanJain/Laza_Rev.git
+
    cd Laza_Rev
 
