@@ -1,7 +1,7 @@
 # Laza_Rev
 
 **Laza_Rev** is a web application built with HTML, CSS, and JavaScript.  
-You can visit Laza_Rev at : https://laza-rev-peach.vercel.app 
+You can visit Laza_Rev at :    https://laza-rev-peach.vercel.app 
 
 ## 🚀 About
 
@@ -13,14 +13,12 @@ You can visit Laza_Rev at : https://laza-rev-peach.vercel.app
 Laza_Rev
 
 - **index.html** => Main HTML page
-
+ 
 - **style.css** => Stylesheet
-
+  
 - **script.js** => JavaScript logic
-
+   
 - **accern-rhea-cover-big.mp4** => Media asset (video)
-
-- **README.md** => This file
 
 ## 🛠 Features
 
@@ -46,6 +44,7 @@ To run the project locally:
 
    ```bash
    git clone https://github.com/NirvanJain/Laza_Rev.git
+
 
    cd Laza_Rev
 
