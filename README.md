@@ -3,12 +3,12 @@
 **Laza_Rev** is a web application built with HTML, CSS, and JavaScript.  
 You can visit Laza_Rev at :    https://laza-rev-peach.vercel.app 
 
-## 🚀 About
+##  About
 
 **Laza_Rev** is a frontend project that delivers an interactive user experience using standard web technologies.  
 
 
-## 📁 Repository Structure
+##  Repository Structure
 
 Laza_Rev
 
@@ -20,14 +20,14 @@ Laza_Rev
    
 - **accern-rhea-cover-big.mp4** => Media asset (video)
 
-## 🛠 Features
+##  Features
 
 - Responsive UI built with semantic HTML and modern CSS
 - Interactive behavior powered by JavaScript
 - Media integration (video, animation, or visual content)
 
 
-## 🧩 Tech Stack
+##  Tech Stack
 
 | Technology | Purpose |
 |------------|---------|
@@ -36,7 +36,7 @@ Laza_Rev
 | JavaScript | Interactivity |
 | Vercel     | Deployment |
 
-## 🧱 Installation
+##  Installation
 
 To run the project locally:
 
